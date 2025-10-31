@@ -21,10 +21,6 @@ I'm really proud of this one — it shows my progress step by step in the world 
 2. Each letter is checked — correct ones are highlighted in color.  
 3. Try to find the right word within the allowed number of attempts!  
 
-## 📸 Preview
-*(Add a screenshot here later — it helps visualize the project)*  
-![Preview Screenshot](./screenshot.png)
-
 ## 🚀 How to Run the Project
 You can play it directly by opening the file:
 accueil.html to see How to Play or directly on index.html
